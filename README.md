@@ -22,7 +22,6 @@ pip install -r requirements.txt
 - `covid_xception.ipynb`: Jupyter Notebook implementing the Xception model for COVID-19 detection.
 - `data/`: Folder containing the dataset (X-ray images).
 - `models/`: Directory to save trained models.
-- `results/`: Directory to store results and evaluation metrics.
 
 ## Dataset
 
