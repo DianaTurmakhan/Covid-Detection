@@ -33,10 +33,10 @@ Ensure that the dataset is structured as follows:
 data/
     ├── train/
         ├── covid/
-        ├── non-covid/
+        ├── normal/
     ├── test/
         ├── covid/
-        ├── non-covid/
+        ├── normal/
 
 ```
 ## Model architecture
