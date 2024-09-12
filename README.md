@@ -38,7 +38,7 @@ data/
         ├── covid/
         ├── non-covid/
 
-
+```
 ## Model architecture
 `Custom CNN Model:` A simple convolutional neural network built from scratch in the CNN_train.ipynb notebook.
 `Xception Model:` A pre-trained Xception model, fine-tuned for COVID-19 detection, as described in covid_xception.ipynb.
