@@ -47,4 +47,4 @@ data/
 
 ## Grad-Cam
 This includes the use of Grad-CAM for XAI in the project.
-![COVID-19 Detection](images/covid_detection.png)
+![COVID-19 Detection](grad-cam.jpeg)
