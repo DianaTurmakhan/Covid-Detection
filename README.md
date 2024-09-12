@@ -45,3 +45,6 @@ data/
 - `Custom CNN Model:` A simple convolutional neural network built from scratch in the CNN_train.ipynb notebook.
 - `Xception Model:` A pre-trained Xception model, fine-tuned for COVID-19 detection, as described in covid_xception.ipynb.
 
+## Grad-Cam
+This includes the use of Grad-CAM for XAI in the project.
+![COVID-19 Detection](images/covid_detection.png)
