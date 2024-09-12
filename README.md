@@ -31,12 +31,14 @@ Ensure that the dataset is structured as follows:
 
 ```bash
 data/
-    ├── train/
-        ├── covid/
-        ├── normal/
-    ├── test/
-        ├── covid/
-        ├── normal/
+    ├── xray_dataset_covid19/
+        ├── train/
+            ├── normal/
+            ├── covid/
+    ├── CT/
+        ├── train/
+            ├── normal/
+            ├── covid/
 
 ```
 ## Model architecture
